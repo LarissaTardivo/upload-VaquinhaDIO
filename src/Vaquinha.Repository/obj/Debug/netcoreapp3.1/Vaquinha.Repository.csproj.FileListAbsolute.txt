@@ -1,0 +1,15 @@
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache
